@@ -1,7 +1,7 @@
 
 # Obsidians Fast Climb Mod
 
-This mod allows you to scale/climb in lethal company very fast.
+This mod allows you to carry any amount of weight and still run at full speed
 
 
 
@@ -19,6 +19,6 @@ This mod allows you to scale/climb in lethal company very fast.
 
 
 ## 🔗 Links
-[![github-download](https://res.cloudinary.com/practicaldev/image/fetch/s--WDdeolgp--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tk4tr033eq3ggxit0xti.png)](https://github.com/Obsidian-ig/FastClimb)
+[![github-download](https://res.cloudinary.com/practicaldev/image/fetch/s--WDdeolgp--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tk4tr033eq3ggxit0xti.png)](https://github.com/Obsidian-ig/AntiWeight)
 
 
